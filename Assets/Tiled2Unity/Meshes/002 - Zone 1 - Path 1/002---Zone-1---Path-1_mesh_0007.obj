@@ -1,0 +1,29 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for '002---Zone-1---Path-1_mesh_0007.obj'
+
+# Vertices (Count = 8)
+v -800 -640 0
+v -816 -640 0
+v -816 -624 0
+v -800 -624 0
+v -208 -768 0
+v -224 -768 0
+v -224 -752 0
+v -208 -752 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0.6875
+vt 0.3333333 0.6875
+vt 0.3333333 0.75
+vt 0 0.75
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g 002---Zone-1---Path-1_mesh_0007
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+

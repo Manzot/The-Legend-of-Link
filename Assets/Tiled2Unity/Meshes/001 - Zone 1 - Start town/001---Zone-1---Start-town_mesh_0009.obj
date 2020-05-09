@@ -1,0 +1,33 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for '001---Zone-1---Start-town_mesh_0009.obj'
+
+# Vertices (Count = 8)
+v -3.52 -1.44 0
+v -3.68 -1.44 0
+v -3.68 -1.28 0
+v -3.52 -1.28 0
+v -3.52 -2.4 0
+v -3.68 -2.4 0
+v -3.68 -2.24 0
+v -3.52 -2.24 0
+
+# Texture cooridinates (Count = 8)
+vt 0.3195739 0.3655977
+vt 0.3408788 0.3655977
+vt 0.3408788 0.3749271
+vt 0.3195739 0.3749271
+vt 0.3195739 0.309621
+vt 0.3408788 0.309621
+vt 0.3408788 0.3189504
+vt 0.3195739 0.3189504
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g 001---Zone-1---Start-town_mesh_0009
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/7/1 8/8/1
+
